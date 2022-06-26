@@ -1,14 +1,15 @@
 # Applying Deep Learning for Prediction of Shoreline Dynamics in Coastal Louisiana
-Dhan Lord B. Fortela, PhD (Principal Investigator)
+Dhan Lord B. Fortela, PhD (Principal Investigator), Chemical Engineering, University of Louisiana at Lafayette
 
-Kevin Toups(Funded Undergraduate Student)
+Kevin Toups(Funded Undergraduate Student), Chemical Engineering, University of Louisiana at Lafayette
 
 ## This research project is funded by the partnership grant by Louisiana Space Grant Consortium (LaSPACE) & Louisiana Sea Grant (LSG)
 
 Primary Grant by U.S. Department of Commerce‐NOAA: NA18OAR4170098
-
 Subaward: PO‐0000064084
+Louisiana State University
 
+##
 
 This is the online repository for the Data Management Plan of the LaSSO 2021-22 research project.
 
