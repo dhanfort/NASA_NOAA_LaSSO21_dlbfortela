@@ -1,5 +1,5 @@
 # Applying Deep Learning for Prediction of Shoreline Dynamics in Coastal Louisiana
-Dhan Lord B. Fortela, PhD (Principal Investigator); Chemical Engineering, University of Louisiana at Lafayette
+Dhan Lord B. Fortela, PhD (Principal Investigator); Chemical Engineering, University of Louisiana at Lafayette; Email: dhanlord.fortela@louisiana.edu; Office phone: (+1)337-482-5765.
 
 Kevin Toups (Funded Undergraduate Student); Chemical Engineering, University of Louisiana at Lafayette
 
@@ -14,7 +14,9 @@ Louisiana State University
 
 ##
 
-This is the online repository for the Data Management Plan of the LaSSO 2021-22 research project. The Convolutional Long-Short Term Memoery (ConvLSTM) is used to capture the spatio-temporal dynamics of the shoreline changes. ConvLSTM was implemented through the TensorFlow libraries via Keras API. The input tensor consists of (1) geo-raster of land-water classfication, (2) precipitation, and (3) temperature. The baseline date is 26 January 1985.
+This is the online repository for the Data Management Plan of the LaSSO 2021-22 research project. 
+
+The Convolutional Long-Short Term Memory (ConvLSTM) is used to capture the spatio-temporal dynamics of the shoreline changes. ConvLSTM was implemented through the TensorFlow libraries via Keras API. The input tensor consists of (1) geo-raster of land-water classfication, (2) precipitation, and (3) temperature. The baseline date is 26 January 1985.
 
 
 Shown below: Locations of the 25 shoreline study areas used to collect samples of geo-raster data around Marsh Island over time to capture shoreline dynamics. Each study area is 109 pixels (width) by 100 pixels (height). Given that each geo-raster pixel is 30m x 30 m, each study area covers 3,270 meters by 3,000 meters. Data preparation starts with the 4-5-3 raster signal bands (A) that are used in a classification algorithm with the SCP plug-in in QGIS to classify each pixel as either land or water (B). This particular sample geo-raster dataset is the baseline date of 26 January 1985, which is the earliest high-quality Landsat dataset available.
