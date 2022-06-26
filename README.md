@@ -1,9 +1,12 @@
 # Applying Deep Learning for Prediction of Shoreline Dynamics in Coastal Louisiana
 Dhan Lord B. Fortela, PhD (Principal Investigator)
+
 Kevin Toups(Funded Undergraduate Student)
 
 ## This research project is funded by the partnership grant by Louisiana Space Grant Consortium (LaSPACE) & Louisiana Sea Grant (LSG)
+
 Primary Grant by U.S. Department of Commerce‐NOAA: NA18OAR4170098
+
 Subaward: PO‐0000064084
 
 
