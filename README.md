@@ -4,7 +4,7 @@ Dhan Lord B. Fortela, PhD (Principal Investigator); Chemical Engineering, Univer
 Kevin Toups (Funded Undergraduate Student); Chemical Engineering, University of Louisiana at Lafayette
 
 ## 
-This LaSSO research project is funded by the partnership grant by Louisiana Space Grant Consortium (LaSPACE) & Louisiana Sea Grant (LSG)
+This LaSSO research project is funded by the partnership grant of Louisiana Space Grant Consortium (LaSPACE) & Louisiana Sea Grant (LSG)
 
 Primary Grant by U.S. Department of Commerce‐NOAA: NA18OAR4170098
 
