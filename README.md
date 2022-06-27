@@ -23,3 +23,8 @@ Shown below: Locations of the 25 shoreline study areas used to collect samples o
 
 
 ![LaSSO_QGIS_Areas_Classification_Schematic](https://user-images.githubusercontent.com/65507260/175828035-ad06c060-7bb0-49ab-89c5-7f4de033ac3c.jpg)
+
+
+The geo-rasters from Landsat (bands 4-5-3) for each study area (coastline) has been pre-processed in QGIS and rendered as PNG image files, which are the input arrays combined with precipitation and temperature data (from NASA Goddard's Giovanni data center) to create the input tensor for ConvLSTM deep leanring.
+
+
