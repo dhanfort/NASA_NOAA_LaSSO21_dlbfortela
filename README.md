@@ -27,4 +27,4 @@ Shown below: Locations of the 25 shoreline study areas used to collect samples o
 
 The geo-rasters from Landsat (bands 4-5-3) for each study area (coastline) have been pre-processed in QGIS and rendered as PNG image files, which are the input arrays combined with precipitation and temperature data (from NASA Goddard's Giovanni data center) to create the input tensor for ConvLSTM deep learning. The PNG images files in the training of the model are provided in this repo (see PNG folder) and are referenced in the Jupyter Notebook as input data files.
 
-
+## Google Colab: https://drive.google.com/file/d/1IJcmF0COK53j4Q8b402lAMSvvz6sf-M-/view?usp=sharing
